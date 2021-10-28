@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\anuta\.gradle\caches\transforms-3\40e0edd39d7c3e3f5c45e0f89ce2b87f\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\anuta\.gradle\caches\transforms-3\b64c581a9daa138f08ffadfeafcf90fd\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\anuta\.gradle\caches\transforms-3\c6e6b7c8875e264f9f97d3822c951574\transformed\constraintlayout-2.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\anuta\.gradle\caches\transforms-3\a41f65a1b182ec9e11a9bbe3d48996cb\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\f20e658da7692681c8bd44c3436e9874\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\anuta\.gradle\caches\transforms-3\255ee6a5699b32854b05ba05c2c1b3ad\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\anuta\.gradle\caches\transforms-3\95df67dfc2f0d63e68ac55c9cef54b37\transformed\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\71fcdbbb03d480ef52ba6ae1e39854c5\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\anuta\.gradle\caches\transforms-3\ba4991d87bc44489b24732ceb6018d63\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\anuta\.gradle\caches\transforms-3\8e47eee6ba114b0eb7d7e253cf31940a\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\anuta\.gradle\caches\transforms-3\b8b350c66e1bae521a6c8a10b95f5f20\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\51ae3194e83dd7f77b0dc4132f069c5d\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\3d9b666e8753ee91985d326ee432e540\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\anuta\.gradle\caches\transforms-3\d02084a864f4e30a2f48c6b9eb01b52b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\6573456f1b21b143915dbfdebcbd2bc4\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\anuta\.gradle\caches\transforms-3\94b3e8f4666ed8e1388191a5fc011b9e\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\anuta\.gradle\caches\transforms-3\ae153f83ce77cbb7db268a4b0cc0fdd6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\anuta\.gradle\caches\transforms-3\e0977116317d9a78ee8c487fa15d7b6b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\3c78f5ed1630efcc3cd9dea3ded253bf\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\5f00d3c21eb335a8e9800ca242f058aa\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\f1a81a42c8ff15780a4adadf7c35e44d\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\e1f2176833963668a3ace0ccd29f7871\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\c80b889a3047ecf71e0ef4e2506dcaba\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\f785a0b962ae08fc7afefe6b0fd39427\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\fa9dd5ce7de204b7dd5a736c6d53f311\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\b024b4fdc6758599b19aa31d1363882e\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\anuta\.gradle\caches\transforms-3\7cabb0b7df62f3b93c656c79795a54ee\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\87c7be2790850eea814cd66c813d96d7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\anuta\.gradle\caches\transforms-3\2713bfec98872afbbb34e9b7ab15daa4\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\anuta\.gradle\caches\transforms-3\3b2c9c620de09f2890ea53d7ec68fa11\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\anuta\.gradle\caches\transforms-3\c8995e00295f143768a28e95e891f2f4\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\anuta\.gradle\caches\transforms-3\8833a61958ada1483003b8864c572a5d\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\06758e689f0bced597b4e1b1801419a2\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\anuta\.gradle\caches\transforms-3\1bde11560d618c69462957ef76db3f59\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\52bb7c9467fdcd9471439b7a58971819\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\anuta\.gradle\caches\transforms-3\59f55c60b75f4ec7c431101538ca0695\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\a68c583d7d2888ce27364aa9ee7b4951\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\anuta\.gradle\caches\transforms-3\a5b79d289e4ec454ef6e95b15136e13d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\anuta\.gradle\caches\transforms-3\b5f3c2155ad874157b3f7819fffcfab5\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\anuta\.gradle\caches\transforms-3\b02ee0dc154ea8fc0edf2ba3acf7bc41\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\43cacd4cff57d90357de9238200ed227\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\1feed067c3ccb2060a22de2b8fbdda64\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\83a821c5ed854de3bf4d1e5fa7440a04\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\9825ca5498c366b52bd49e6ab2f1bf0d\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\anuta\.gradle\caches\transforms-3\4501bb6c1b16d6c9ef0938c5a599105f\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:7:5-26:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\anuta\.gradle\caches\transforms-3\b64c581a9daa138f08ffadfeafcf90fd\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\anuta\.gradle\caches\transforms-3\b64c581a9daa138f08ffadfeafcf90fd\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\anuta\.gradle\caches\transforms-3\c6e6b7c8875e264f9f97d3822c951574\transformed\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\anuta\.gradle\caches\transforms-3\c6e6b7c8875e264f9f97d3822c951574\transformed\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\anuta\.gradle\caches\transforms-3\95df67dfc2f0d63e68ac55c9cef54b37\transformed\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\anuta\.gradle\caches\transforms-3\95df67dfc2f0d63e68ac55c9cef54b37\transformed\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.6.0] C:\Users\anuta\.gradle\caches\transforms-3\7cabb0b7df62f3b93c656c79795a54ee\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\anuta\.gradle\caches\transforms-3\7cabb0b7df62f3b93c656c79795a54ee\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\anuta\.gradle\caches\transforms-3\1bde11560d618c69462957ef76db3f59\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\anuta\.gradle\caches\transforms-3\1bde11560d618c69462957ef76db3f59\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\anuta\.gradle\caches\transforms-3\59f55c60b75f4ec7c431101538ca0695\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\anuta\.gradle\caches\transforms-3\59f55c60b75f4ec7c431101538ca0695\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\anuta\.gradle\caches\transforms-3\7cabb0b7df62f3b93c656c79795a54ee\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:13:9-46
+activity#com.example.movieann.MainActivity
+ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:14:9-16:40
+	android:exported
+		ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:15:13-41
+activity#com.example.movieann.MovieListActivity
+ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:exported
+		ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:18:13-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\anuta\.gradle\caches\transforms-3\40e0edd39d7c3e3f5c45e0f89ce2b87f\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\anuta\.gradle\caches\transforms-3\40e0edd39d7c3e3f5c45e0f89ce2b87f\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\anuta\.gradle\caches\transforms-3\b64c581a9daa138f08ffadfeafcf90fd\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\anuta\.gradle\caches\transforms-3\b64c581a9daa138f08ffadfeafcf90fd\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\anuta\.gradle\caches\transforms-3\c6e6b7c8875e264f9f97d3822c951574\transformed\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\anuta\.gradle\caches\transforms-3\c6e6b7c8875e264f9f97d3822c951574\transformed\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\anuta\.gradle\caches\transforms-3\a41f65a1b182ec9e11a9bbe3d48996cb\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\anuta\.gradle\caches\transforms-3\a41f65a1b182ec9e11a9bbe3d48996cb\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\f20e658da7692681c8bd44c3436e9874\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\f20e658da7692681c8bd44c3436e9874\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\anuta\.gradle\caches\transforms-3\255ee6a5699b32854b05ba05c2c1b3ad\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\anuta\.gradle\caches\transforms-3\255ee6a5699b32854b05ba05c2c1b3ad\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\anuta\.gradle\caches\transforms-3\95df67dfc2f0d63e68ac55c9cef54b37\transformed\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\anuta\.gradle\caches\transforms-3\95df67dfc2f0d63e68ac55c9cef54b37\transformed\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\71fcdbbb03d480ef52ba6ae1e39854c5\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\71fcdbbb03d480ef52ba6ae1e39854c5\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\anuta\.gradle\caches\transforms-3\ba4991d87bc44489b24732ceb6018d63\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\anuta\.gradle\caches\transforms-3\ba4991d87bc44489b24732ceb6018d63\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\anuta\.gradle\caches\transforms-3\8e47eee6ba114b0eb7d7e253cf31940a\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\anuta\.gradle\caches\transforms-3\8e47eee6ba114b0eb7d7e253cf31940a\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\anuta\.gradle\caches\transforms-3\b8b350c66e1bae521a6c8a10b95f5f20\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\anuta\.gradle\caches\transforms-3\b8b350c66e1bae521a6c8a10b95f5f20\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\51ae3194e83dd7f77b0dc4132f069c5d\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\51ae3194e83dd7f77b0dc4132f069c5d\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\3d9b666e8753ee91985d326ee432e540\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\3d9b666e8753ee91985d326ee432e540\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\anuta\.gradle\caches\transforms-3\d02084a864f4e30a2f48c6b9eb01b52b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\anuta\.gradle\caches\transforms-3\d02084a864f4e30a2f48c6b9eb01b52b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\6573456f1b21b143915dbfdebcbd2bc4\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\6573456f1b21b143915dbfdebcbd2bc4\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\anuta\.gradle\caches\transforms-3\94b3e8f4666ed8e1388191a5fc011b9e\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\anuta\.gradle\caches\transforms-3\94b3e8f4666ed8e1388191a5fc011b9e\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\anuta\.gradle\caches\transforms-3\ae153f83ce77cbb7db268a4b0cc0fdd6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\anuta\.gradle\caches\transforms-3\ae153f83ce77cbb7db268a4b0cc0fdd6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\anuta\.gradle\caches\transforms-3\e0977116317d9a78ee8c487fa15d7b6b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\anuta\.gradle\caches\transforms-3\e0977116317d9a78ee8c487fa15d7b6b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\3c78f5ed1630efcc3cd9dea3ded253bf\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\3c78f5ed1630efcc3cd9dea3ded253bf\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\5f00d3c21eb335a8e9800ca242f058aa\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\5f00d3c21eb335a8e9800ca242f058aa\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\f1a81a42c8ff15780a4adadf7c35e44d\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\f1a81a42c8ff15780a4adadf7c35e44d\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\e1f2176833963668a3ace0ccd29f7871\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\e1f2176833963668a3ace0ccd29f7871\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\c80b889a3047ecf71e0ef4e2506dcaba\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\c80b889a3047ecf71e0ef4e2506dcaba\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\f785a0b962ae08fc7afefe6b0fd39427\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\f785a0b962ae08fc7afefe6b0fd39427\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\fa9dd5ce7de204b7dd5a736c6d53f311\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\fa9dd5ce7de204b7dd5a736c6d53f311\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\b024b4fdc6758599b19aa31d1363882e\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\b024b4fdc6758599b19aa31d1363882e\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\anuta\.gradle\caches\transforms-3\7cabb0b7df62f3b93c656c79795a54ee\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\anuta\.gradle\caches\transforms-3\7cabb0b7df62f3b93c656c79795a54ee\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\87c7be2790850eea814cd66c813d96d7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\87c7be2790850eea814cd66c813d96d7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\anuta\.gradle\caches\transforms-3\2713bfec98872afbbb34e9b7ab15daa4\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\anuta\.gradle\caches\transforms-3\2713bfec98872afbbb34e9b7ab15daa4\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\anuta\.gradle\caches\transforms-3\3b2c9c620de09f2890ea53d7ec68fa11\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\anuta\.gradle\caches\transforms-3\3b2c9c620de09f2890ea53d7ec68fa11\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\anuta\.gradle\caches\transforms-3\c8995e00295f143768a28e95e891f2f4\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\anuta\.gradle\caches\transforms-3\c8995e00295f143768a28e95e891f2f4\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\anuta\.gradle\caches\transforms-3\8833a61958ada1483003b8864c572a5d\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\anuta\.gradle\caches\transforms-3\8833a61958ada1483003b8864c572a5d\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\06758e689f0bced597b4e1b1801419a2\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\06758e689f0bced597b4e1b1801419a2\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\anuta\.gradle\caches\transforms-3\1bde11560d618c69462957ef76db3f59\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\anuta\.gradle\caches\transforms-3\1bde11560d618c69462957ef76db3f59\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\52bb7c9467fdcd9471439b7a58971819\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\52bb7c9467fdcd9471439b7a58971819\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\anuta\.gradle\caches\transforms-3\59f55c60b75f4ec7c431101538ca0695\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\anuta\.gradle\caches\transforms-3\59f55c60b75f4ec7c431101538ca0695\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\a68c583d7d2888ce27364aa9ee7b4951\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\a68c583d7d2888ce27364aa9ee7b4951\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\anuta\.gradle\caches\transforms-3\a5b79d289e4ec454ef6e95b15136e13d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\anuta\.gradle\caches\transforms-3\a5b79d289e4ec454ef6e95b15136e13d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\anuta\.gradle\caches\transforms-3\b5f3c2155ad874157b3f7819fffcfab5\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\anuta\.gradle\caches\transforms-3\b5f3c2155ad874157b3f7819fffcfab5\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\anuta\.gradle\caches\transforms-3\b02ee0dc154ea8fc0edf2ba3acf7bc41\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\anuta\.gradle\caches\transforms-3\b02ee0dc154ea8fc0edf2ba3acf7bc41\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\43cacd4cff57d90357de9238200ed227\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\43cacd4cff57d90357de9238200ed227\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\1feed067c3ccb2060a22de2b8fbdda64\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\1feed067c3ccb2060a22de2b8fbdda64\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\83a821c5ed854de3bf4d1e5fa7440a04\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\83a821c5ed854de3bf4d1e5fa7440a04\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\9825ca5498c366b52bd49e6ab2f1bf0d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\anuta\.gradle\caches\transforms-3\9825ca5498c366b52bd49e6ab2f1bf0d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\anuta\.gradle\caches\transforms-3\4501bb6c1b16d6c9ef0938c5a599105f\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\anuta\.gradle\caches\transforms-3\4501bb6c1b16d6c9ef0938c5a599105f\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anuta\AndroidStudioProjects\MovieAnn\app\src\main\AndroidManifest.xml
