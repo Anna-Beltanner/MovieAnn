@@ -13,7 +13,7 @@ import retrofit2.Response
 class MovieListActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_movie_list)
 
 
         //связываем RecyclerView с адаптером
@@ -22,10 +22,15 @@ class MovieListActivity : AppCompatActivity() {
         getMovieData { movies: List<MovieItem> ->
             rv_movies_list.adapter = MovieAdapter(movies)
         }
+
+        //getMovieData {  }
     }
 
-    private fun getMovieData(callback: (List<MovieItem>) -> Unit) {
-    //TODO SOMETHING
+    private fun getMovieData(callback: (List<MovieItem>) -> Unit): MutableList<MovieItem> {
+    val list = mutableListOf<MovieItem>()
+        list.add (MovieItem("Harry Potter", "12/06/2010"))
+        return list
+
     }
 
 

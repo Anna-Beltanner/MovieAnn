@@ -7,8 +7,8 @@ import kotlinx.android.parcel.Parcelize
 
 @Parcelize
 data class MovieItem(
-    @SerializedName("movie_poster")
-    val poster: String?,
+    //@SerializedName("movie_poster")
+    //val poster: String,
 
     @SerializedName("movie_title")
     val title: String?,
@@ -16,5 +16,5 @@ data class MovieItem(
     @SerializedName("movie_release_date")
     val release: String?,
 ): Parcelable{
-    constructor(): this("", "", "")
+    //constructor(): this("", "", "")
 }

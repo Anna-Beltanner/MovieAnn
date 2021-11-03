@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\anuta\\AndroidStudioProjects\\MovieAnn\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-in\\values-in.xml",
+            "outputFile": "C:\\Users\\anuta\\StudioProjects\\MovieAnnClone\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-in\\values-in.xml",
             "map": [
                 {
                     "source": "C:\\Users\\anuta\\.gradle\\caches\\transforms-3\\7cabb0b7df62f3b93c656c79795a54ee\\transformed\\core-1.6.0\\res\\values-in\\values-in.xml",
