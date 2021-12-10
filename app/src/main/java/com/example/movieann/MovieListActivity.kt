@@ -16,17 +16,21 @@ class MovieListActivity : AppCompatActivity() {
         setContentView(R.layout.activity_movie_list)
 
 
+
+
         //связываем RecyclerView с адаптером
         rv_movies_list.layoutManager = LinearLayoutManager(this)
         rv_movies_list.setHasFixedSize(true)
-        getMovieData { movies: List<MovieItem> ->
-            rv_movies_list.adapter = MovieAdapter(movies)
-        }
 
-        //getMovieData {  }
+        val movies = getMovieData()
+
+        rv_movies_list.adapter = MovieAdapter(movies)
+
+
+
     }
 
-    private fun getMovieData(callback: (List<MovieItem>) -> Unit): MutableList<MovieItem> {
+    private fun getMovieData(): MutableList<MovieItem> {
     val list = mutableListOf<MovieItem>()
         list.add (MovieItem("Harry Potter", "12/06/2010"))
         return list
