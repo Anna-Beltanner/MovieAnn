@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MovieAnn</string>
+    <string name="sort">Сортировать</string>
 </resources>
